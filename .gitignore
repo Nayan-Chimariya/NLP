@@ -1,0 +1,77 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# JupyterLab
+.jupyter/lab/workspaces/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Notebook outputs (optional if using tools like nbstripout)
+# Uncomment if you don't want to track generated HTML/PDF
+# *.html
+# *.pdf
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info
+
+# Msic
+Resources/
+Learn/
